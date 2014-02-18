@@ -1,0 +1,19 @@
+{
+	"name": "Constant Contact",
+	"description": "Constant Contact Integration App",
+	"version": "0.0.1",
+	"url": "https://github.com/aldryn/aldryn-constantcontact",
+	"package-name": "aldryn-constantcontact",
+	"installed-apps": [
+		"aldryn_constantcontact",
+        "pyrate"
+	],
+	"author": {
+		"name": "Divio AG",
+		"url": "https://www.divio.ch"
+	},
+	"license": {
+		"name": "BSD",
+		"text": "!literal-include LICENSE.txt"
+	}
+}

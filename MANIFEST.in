@@ -1,0 +1,5 @@
+include LICENSE.txt
+recursive-include aldryn_constantcontact/templates *
+recursive-include aldryn_constantcontact/locale *
+recursive-include aldryn_constantcontact/migrations *
+recursive-exclude * *.pyc

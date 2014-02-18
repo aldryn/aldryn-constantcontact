@@ -1,0 +1,9 @@
+{% extends 'aldryn_constantcontact/plugins/base.html' %}
+{% block form %}
+<form action="{% url 'admin:submit-form' %}" method="post">
+    {% csrf_token %}
+    <input type="email" placeholder="Email" name="email" id="email" value="">
+    <input type="hidden" name="redirect_url" value="/">
+    <input type="submit" value="submit">
+</form>
+{% endblock form %}
