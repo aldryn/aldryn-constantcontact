@@ -1,7 +1,6 @@
 {
-	"name": "Constant Contact",
+	"name": "Aldryn Constant Contact",
 	"description": "Constant Contact Integration App",
-	"version": "0.0.3",
 	"url": "https://github.com/aldryn/aldryn-constantcontact",
 	"package-name": "aldryn-constantcontact",
 	"installed-apps": [
