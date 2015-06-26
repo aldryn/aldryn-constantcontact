@@ -1,5 +1,5 @@
-Constant Contact Integration App
-================================
+Aldryn Constant Contact
+=======================
 
 `Constant Contact’s email marketing <http://constantcontact.com>`_ software helps you plan and manage your campaigns.
 It offers easily customisable templates, response tracking, contact management and more. 
