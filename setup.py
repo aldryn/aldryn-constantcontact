@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 from aldryn_constantcontact import __version__
 
 REQUIREMENTS = [
-    'pyrate==0.5a5'
+    'pyrate>=0.5a6'
 ]
 
 CLASSIFIERS = [
